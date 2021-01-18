@@ -19,9 +19,12 @@
             <li><a href="./12_Change_the_Code/index.md">12_Change_the_Code</a></li>
             <li><a href="./13_Overview/index.md">13_Overview</a></li>
             <li><a href="./14_Sample_Applications/index.md">14_Sample_Applications</a></li>
+        </ul>
+    </div>
     <hr />
     <div style="width:100%; text-align: center;">
         <h3>Author</h3>
         <p><img src="./images/avatar.jpg" alt="Ken Hill" width="100" style="display:block; margin-left: auto; margin-right: auto; width: 100" /></p>
         <p style="text-align: center">Ken Hill</p>
     </div>
+</div>
